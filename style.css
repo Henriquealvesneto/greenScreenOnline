@@ -1,0 +1,25 @@
+h1{
+  font-family: arial;
+  color: dimgray;
+}
+
+canvas{
+  border: 1px solid gray;
+  width: 590px;
+  height: 400px;
+}
+
+body{
+  font-family: Verdana;
+  margin: 30px;
+  border: 1px solid gray;
+  background-color: #E0FFFF;
+}
+
+input{
+  font-size: 15px;
+}
+
+p{
+  font-size: 20px;
+}
